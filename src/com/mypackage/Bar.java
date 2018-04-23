@@ -2,7 +2,7 @@ package com.mypackage;
 
 public class Bar {
     public static void main(String[] args) {
-        System.out.println("Hello from Bar!!!");
-        System.out.println("Bye-bye");
+        System.out.println("Fourth!!!");
+        System.out.println("Bye-bye-bye");
     }
 }
