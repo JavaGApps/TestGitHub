@@ -3,5 +3,6 @@ package com.mypackage;
 public class Foo {
     public static void main(String[] args) {
         System.out.println("Hello from Foo)))");
+        System.out.println("Hm...");
     }
 }
